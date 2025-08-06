@@ -47,7 +47,7 @@ This mini-project was created to **better understand key OOP principles**, inclu
 
 Below is a screenshot of the game running:
 
-![Game Preview](./UI_preview.png)
+![Game Preview](./UI_previewer.png)
 
 ---
 
